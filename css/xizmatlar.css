@@ -1,0 +1,96 @@
+main {
+  margin-top: 10rem;
+}
+
+.serivese {
+  padding: 7.2rem 25rem;
+}
+.services-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 7.2rem;
+}
+.services-text-wrapper p {
+  width: 860px;
+}
+.services-text {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+}
+.services-title-text {
+  width: 800px;
+}
+.services-desription {
+  padding-top: 1.6rem;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+/* XIZMAT */
+.xizmat-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 0px;
+  background: #F4F4F4; 
+}
+
+.xizmat-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 32px;
+  width: 804px;
+  background: #ffffff;
+  box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+  margin-bottom: 6.4rem;
+}
+
+.xizmat-div {
+    width: 50rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.xizmat-text {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 130%;
+}
+.xizmat-desription {
+    font-weight: 400;
+line-height: 2.4rem;
+padding-bottom: 1.6rem;
+}
+
+.qoshimcha {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 5.6rem;
+  gap: 10px;
+}
+.qoshimcha-btn {
+  background: #00bafc;
+  border-radius: 5px;
+  margin-right: 1.6rem;
+  padding: 0.8rem 1.6rem;
+}
+.qoshimcha-btn:hover {
+  background-color: rgba(0, 186, 252, 0.8);
+}
+.qoshimcha-btn:active {
+  background-color: rgba(0, 186, 252, 0.6);
+}
+
+.hero-link {
+  text-align: center;
+  text-decoration-line: underline;
+  color: #00bafc;
+}
+/* /XIZMAT */
